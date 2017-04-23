@@ -1,0 +1,26 @@
+2017-04-10 15:33:18,615 INFO getting app erpnext
+2017-04-10 15:33:18,639 INFO git clone https://github.com/frappe/erpnext  --depth 1 --origin upstream
+2017-04-10 15:36:03,287 INFO installing erpnext
+2017-04-10 15:36:03,287 INFO ./env/bin/pip install -q  -e ./apps/erpnext --no-cache-dir
+2017-04-16 11:41:24,673 INFO creating new app optiopay
+2017-04-16 11:42:50,038 INFO installing optiopay
+2017-04-16 11:42:50,042 INFO ./env/bin/pip install -q  -e ./apps/optiopay --no-cache-dir
+2017-04-16 20:58:21,150 INFO updating bench
+2017-04-16 20:58:21,155 INFO git pull
+2017-04-16 20:58:26,912 INFO ./env/bin/pip install Pillow
+2017-04-16 20:59:20,687 INFO updating bench
+2017-04-16 20:59:20,688 INFO git pull
+2017-04-16 20:59:25,227 INFO ./env/bin/pip install Pillow
+2017-04-16 20:59:26,116 INFO pulling frappe
+2017-04-16 20:59:26,117 INFO git fetch --all
+2017-04-16 20:59:27,504 INFO git reset --hard upstream/develop
+2017-04-16 20:59:27,772 INFO find . -name "*.pyc" -delete
+2017-04-16 20:59:27,965 INFO pulling erpnext
+2017-04-16 20:59:27,969 INFO git fetch --all
+2017-04-16 21:00:30,917 INFO git reset --hard upstream/develop
+2017-04-16 21:00:31,638 INFO find . -name "*.pyc" -delete
+2017-04-16 21:00:31,756 INFO ./env/bin/pip install --upgrade pip
+2017-04-16 21:00:34,533 INFO ./env/bin/pip install -q -r /home/robert/.bench/requirements.txt
+2017-04-16 21:00:44,133 INFO ./env/bin/pip install -q -r ./apps/frappe/requirements.txt
+2017-04-16 21:00:47,819 INFO ./env/bin/pip install -q -r ./apps/optiopay/requirements.txt
+2017-04-16 21:00:48,796 INFO ./env/bin/pip install -q -r ./apps/erpnext/requirements.txt

@@ -1,0 +1,37 @@
+[ERROR] 2017-04-17 14:52:37,964 | /home/robert/frappe-bench/apps/frappe/frappe/app.py:
+Site: optiopay.local
+Form Dict: {
+ "cmd": "frappe.client.insert", 
+ "doc": "{\"docstatus\":0,\"doctype\":\"Partner\",\"name\":\"New Partner 1\",\"__islocal\":1,\"__unsaved\":1,\"owner\":\"Administrator\",\"payment_period\":\"Weekly\",\"voucher_purchase_method\":\"Postpaid\",\"voucher_type\":\"Rabattgutschein\",\"debit_vat_rate\":19,\"credit_vat_rate\":0,\"__run_link_triggers\":1,\"partner_name\":\"All you need GmbH\",\"tax_identifier\":\"DE244324154\"}"
+}
+Request Error
+Traceback (most recent call last):
+  File "/home/robert/frappe-bench/apps/frappe/frappe/app.py", line 56, in application
+    response = frappe.handler.handle()
+  File "/home/robert/frappe-bench/apps/frappe/frappe/handler.py", line 19, in handle
+    execute_cmd(cmd)
+  File "/home/robert/frappe-bench/apps/frappe/frappe/handler.py", line 42, in execute_cmd
+    ret = frappe.call(method, **frappe.form_dict)
+  File "/home/robert/frappe-bench/apps/frappe/frappe/__init__.py", line 907, in call
+    return fn(*args, **newargs)
+  File "/home/robert/frappe-bench/apps/frappe/frappe/client.py", line 124, in insert
+    doc = frappe.get_doc(doc).insert()
+  File "/home/robert/frappe-bench/apps/frappe/frappe/model/document.py", line 183, in insert
+    self._set_defaults()
+  File "/home/robert/frappe-bench/apps/frappe/frappe/model/document.py", line 499, in _set_defaults
+    new_doc = frappe.new_doc(df.options, as_dict=True)
+  File "/home/robert/frappe-bench/apps/frappe/frappe/__init__.py", line 582, in new_doc
+    return get_new_doc(doctype, parent_doc, parentfield, as_dict=as_dict)
+  File "/home/robert/frappe-bench/apps/frappe/frappe/model/create_new.py", line 19, in get_new_doc
+    frappe.local.new_doc_templates[doctype] = make_new_doc(doctype)
+  File "/home/robert/frappe-bench/apps/frappe/frappe/model/create_new.py", line 37, in make_new_doc
+    "docstatus": 0
+  File "/home/robert/frappe-bench/apps/frappe/frappe/__init__.py", line 606, in get_doc
+    return frappe.model.document.get_doc(arg1, arg2)
+  File "/home/robert/frappe-bench/apps/frappe/frappe/model/document.py", line 49, in get_doc
+    controller = get_controller(doctype)
+  File "/home/robert/frappe-bench/apps/frappe/frappe/model/base_document.py", line 34, in get_controller
+    module = load_doctype_module(doctype, module_name)
+  File "/home/robert/frappe-bench/apps/frappe/frappe/modules/utils.py", line 184, in load_doctype_module
+    raise ImportError, 'Module import failed for {0} ({1})'.format(doctype, module_name)
+ImportError: Module import failed for Party Address (optiopay.parties.doctype.party_address.party_address)

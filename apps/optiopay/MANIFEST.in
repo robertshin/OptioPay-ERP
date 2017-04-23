@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include optiopay *.css
+recursive-include optiopay *.csv
+recursive-include optiopay *.html
+recursive-include optiopay *.ico
+recursive-include optiopay *.js
+recursive-include optiopay *.json
+recursive-include optiopay *.md
+recursive-include optiopay *.png
+recursive-include optiopay *.py
+recursive-include optiopay *.svg
+recursive-include optiopay *.txt
+recursive-exclude optiopay *.pyc

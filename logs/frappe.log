@@ -1,0 +1,1141 @@
+[DEBUG] 2017-04-17 14:55:17,373 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: test.local
+Queued events for site test.local
+[DEBUG] 2017-04-17 14:59:17,672 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: optiopay.local
+Queued events for site optiopay.local
+[DEBUG] 2017-04-17 14:59:17,721 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: test.local
+Queued events for site test.local
+[DEBUG] 2017-04-17 15:03:18,031 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: optiopay.local
+Queued events for site optiopay.local
+[DEBUG] 2017-04-17 15:03:18,126 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: test.local
+Queued events for site test.local
+[DEBUG] 2017-04-17 15:07:18,455 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: optiopay.local
+Queued events for site optiopay.local
+[DEBUG] 2017-04-17 15:07:18,490 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: test.local
+Queued events for site test.local
+[DEBUG] 2017-04-17 15:11:18,779 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: optiopay.local
+Queued events for site optiopay.local
+[DEBUG] 2017-04-17 15:11:18,830 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: test.local
+Queued events for site test.local
+[DEBUG] 2017-04-17 15:15:19,202 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: optiopay.local
+Queued events for site optiopay.local
+[DEBUG] 2017-04-17 15:15:19,248 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: test.local
+Queued events for site test.local
+[DEBUG] 2017-04-17 15:19:19,617 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: optiopay.local
+Queued events for site optiopay.local
+[DEBUG] 2017-04-17 15:19:19,678 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: test.local
+Queued events for site test.local
+[DEBUG] 2017-04-17 15:23:19,998 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: optiopay.local
+Queued events for site optiopay.local
+[DEBUG] 2017-04-17 15:23:20,034 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: test.local
+Queued events for site test.local
+[DEBUG] 2017-04-17 15:27:20,362 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: optiopay.local
+Queued events for site optiopay.local
+[DEBUG] 2017-04-17 15:27:20,400 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: test.local
+Queued events for site test.local
+[DEBUG] 2017-04-17 15:31:20,682 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: optiopay.local
+Queued events for site optiopay.local
+[DEBUG] 2017-04-17 15:31:20,719 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: test.local
+Queued events for site test.local
+[DEBUG] 2017-04-17 15:35:21,091 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: optiopay.local
+Queued events for site optiopay.local
+[DEBUG] 2017-04-17 15:35:21,138 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: test.local
+Queued events for site test.local
+[DEBUG] 2017-04-17 15:39:21,488 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: optiopay.local
+Queued events for site optiopay.local
+[DEBUG] 2017-04-17 15:39:21,528 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: test.local
+Queued events for site test.local
+[DEBUG] 2017-04-17 15:43:21,816 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: optiopay.local
+Queued events for site optiopay.local
+[DEBUG] 2017-04-17 15:43:21,856 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: test.local
+Queued events for site test.local
+[DEBUG] 2017-04-17 15:47:22,185 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: optiopay.local
+Queued events for site optiopay.local
+[DEBUG] 2017-04-17 15:47:22,226 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: test.local
+Queued events for site test.local
+[DEBUG] 2017-04-17 15:51:22,523 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: optiopay.local
+Queued events for site optiopay.local
+[DEBUG] 2017-04-17 15:51:22,554 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: test.local
+Queued events for site test.local
+[DEBUG] 2017-04-17 15:55:22,876 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: optiopay.local
+Queued events for site optiopay.local
+[DEBUG] 2017-04-17 15:55:22,898 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: test.local
+Queued events for site test.local
+[DEBUG] 2017-04-17 15:59:23,211 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: optiopay.local
+Queued events for site optiopay.local
+[DEBUG] 2017-04-17 15:59:23,246 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: test.local
+Queued events for site test.local
+[DEBUG] 2017-04-17 16:03:23,549 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: optiopay.local
+Queued events for site optiopay.local
+[DEBUG] 2017-04-17 16:03:23,663 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: test.local
+Queued events for site test.local
+[DEBUG] 2017-04-17 16:07:23,950 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: optiopay.local
+Queued events for site optiopay.local
+[DEBUG] 2017-04-17 16:07:23,973 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: test.local
+Queued events for site test.local
+[DEBUG] 2017-04-17 16:11:24,311 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: optiopay.local
+Queued events for site optiopay.local
+[DEBUG] 2017-04-17 16:11:24,334 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: test.local
+Queued events for site test.local
+[DEBUG] 2017-04-17 16:15:24,637 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: optiopay.local
+Queued events for site optiopay.local
+[DEBUG] 2017-04-17 16:15:24,670 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: test.local
+Queued events for site test.local
+[DEBUG] 2017-04-17 16:19:25,007 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: optiopay.local
+Queued events for site optiopay.local
+[DEBUG] 2017-04-17 16:19:25,048 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: test.local
+Queued events for site test.local
+[DEBUG] 2017-04-17 16:23:25,391 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: optiopay.local
+Queued events for site optiopay.local
+[DEBUG] 2017-04-17 16:23:25,426 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: test.local
+Queued events for site test.local
+[DEBUG] 2017-04-17 16:27:25,715 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: optiopay.local
+Queued events for site optiopay.local
+[DEBUG] 2017-04-17 16:27:25,762 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: test.local
+Queued events for site test.local
+[DEBUG] 2017-04-17 16:31:26,039 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: optiopay.local
+Queued events for site optiopay.local
+[DEBUG] 2017-04-17 16:31:26,103 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: test.local
+Queued events for site test.local
+[DEBUG] 2017-04-17 16:37:26,628 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: optiopay.local
+Queued events for site optiopay.local
+[DEBUG] 2017-04-17 16:37:27,118 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: test.local
+Queued events for site test.local
+[DEBUG] 2017-04-17 16:41:27,430 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: optiopay.local
+Queued events for site optiopay.local
+[DEBUG] 2017-04-17 16:41:27,455 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: test.local
+Queued events for site test.local
+[DEBUG] 2017-04-17 16:45:27,821 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: optiopay.local
+Queued events for site optiopay.local
+[DEBUG] 2017-04-17 16:45:27,846 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: test.local
+Queued events for site test.local
+[DEBUG] 2017-04-17 16:49:28,202 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: optiopay.local
+Queued events for site optiopay.local
+[DEBUG] 2017-04-17 16:49:28,231 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: test.local
+Queued events for site test.local
+[DEBUG] 2017-04-17 16:53:28,528 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: optiopay.local
+Queued events for site optiopay.local
+[DEBUG] 2017-04-17 16:53:28,549 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: test.local
+Queued events for site test.local
+[DEBUG] 2017-04-17 16:57:29,012 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: optiopay.local
+Queued events for site optiopay.local
+[DEBUG] 2017-04-17 16:57:29,064 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: test.local
+Queued events for site test.local
+[DEBUG] 2017-04-17 17:01:29,412 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: optiopay.local
+Queued events for site optiopay.local
+[DEBUG] 2017-04-17 17:01:29,498 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: test.local
+Queued events for site test.local
+[DEBUG] 2017-04-18 09:56:13,658 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: optiopay.local
+Queued events for site optiopay.local
+[DEBUG] 2017-04-18 09:56:14,971 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: test.local
+Queued events for site test.local
+[DEBUG] 2017-04-18 10:00:15,686 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: optiopay.local
+Queued events for site optiopay.local
+[DEBUG] 2017-04-18 10:00:15,754 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: test.local
+Queued events for site test.local
+[DEBUG] 2017-04-18 10:04:16,074 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: optiopay.local
+Queued events for site optiopay.local
+[DEBUG] 2017-04-18 10:04:16,125 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: test.local
+Queued events for site test.local
+[DEBUG] 2017-04-18 10:08:16,444 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: optiopay.local
+Queued events for site optiopay.local
+[DEBUG] 2017-04-18 10:08:16,493 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: test.local
+Queued events for site test.local
+[DEBUG] 2017-04-18 10:12:16,853 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: optiopay.local
+Queued events for site optiopay.local
+[DEBUG] 2017-04-18 10:12:16,880 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: test.local
+Queued events for site test.local
+[DEBUG] 2017-04-18 10:16:17,261 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: optiopay.local
+Queued events for site optiopay.local
+[DEBUG] 2017-04-18 10:16:17,281 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: test.local
+Queued events for site test.local
+[DEBUG] 2017-04-18 10:20:17,624 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: optiopay.local
+Queued events for site optiopay.local
+[DEBUG] 2017-04-18 10:20:17,660 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: test.local
+Queued events for site test.local
+[DEBUG] 2017-04-18 10:24:18,017 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: optiopay.local
+Queued events for site optiopay.local
+[DEBUG] 2017-04-18 10:24:18,035 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: test.local
+Queued events for site test.local
+[DEBUG] 2017-04-18 10:28:18,407 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: optiopay.local
+Queued events for site optiopay.local
+[DEBUG] 2017-04-18 10:28:18,436 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: test.local
+Queued events for site test.local
+[DEBUG] 2017-04-18 10:32:18,748 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: optiopay.local
+Queued events for site optiopay.local
+[DEBUG] 2017-04-18 10:32:18,778 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: test.local
+Queued events for site test.local
+[DEBUG] 2017-04-18 11:55:39,278 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: optiopay.local
+Queued events for site optiopay.local
+[DEBUG] 2017-04-18 11:55:39,387 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: test.local
+Queued events for site test.local
+[DEBUG] 2017-04-18 11:59:39,800 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: optiopay.local
+Queued events for site optiopay.local
+[DEBUG] 2017-04-18 11:59:39,828 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: test.local
+Queued events for site test.local
+[DEBUG] 2017-04-18 12:03:40,163 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: optiopay.local
+Queued events for site optiopay.local
+[DEBUG] 2017-04-18 12:03:40,238 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: test.local
+Queued events for site test.local
+[DEBUG] 2017-04-18 12:07:40,548 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: optiopay.local
+Queued events for site optiopay.local
+[DEBUG] 2017-04-18 12:07:40,579 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: test.local
+Queued events for site test.local
+[DEBUG] 2017-04-18 12:11:41,033 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: optiopay.local
+Queued events for site optiopay.local
+[DEBUG] 2017-04-18 12:11:41,097 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: test.local
+Queued events for site test.local
+[DEBUG] 2017-04-18 12:15:41,475 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: optiopay.local
+Queued events for site optiopay.local
+[DEBUG] 2017-04-18 12:15:41,504 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: test.local
+Queued events for site test.local
+[DEBUG] 2017-04-18 12:19:41,872 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: optiopay.local
+Queued events for site optiopay.local
+[DEBUG] 2017-04-18 12:19:41,903 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: test.local
+Queued events for site test.local
+[DEBUG] 2017-04-18 12:23:42,260 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: optiopay.local
+Queued events for site optiopay.local
+[DEBUG] 2017-04-18 12:23:42,304 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: test.local
+Queued events for site test.local
+[DEBUG] 2017-04-18 12:27:42,683 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: optiopay.local
+Queued events for site optiopay.local
+[DEBUG] 2017-04-18 12:27:42,731 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: test.local
+Queued events for site test.local
+[DEBUG] 2017-04-18 12:31:43,046 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: optiopay.local
+Queued events for site optiopay.local
+[DEBUG] 2017-04-18 12:31:43,088 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: test.local
+Queued events for site test.local
+[DEBUG] 2017-04-18 12:35:43,460 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: optiopay.local
+Queued events for site optiopay.local
+[DEBUG] 2017-04-18 12:35:43,487 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: test.local
+Queued events for site test.local
+[DEBUG] 2017-04-18 12:39:43,835 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: optiopay.local
+Queued events for site optiopay.local
+[DEBUG] 2017-04-18 12:39:43,859 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: test.local
+Queued events for site test.local
+[DEBUG] 2017-04-18 12:43:44,192 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: optiopay.local
+Queued events for site optiopay.local
+[DEBUG] 2017-04-18 12:43:44,222 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: test.local
+Queued events for site test.local
+[DEBUG] 2017-04-18 12:47:44,594 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: optiopay.local
+Queued events for site optiopay.local
+[DEBUG] 2017-04-18 12:47:44,621 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: test.local
+Queued events for site test.local
+[DEBUG] 2017-04-18 12:51:44,977 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: optiopay.local
+Queued events for site optiopay.local
+[DEBUG] 2017-04-18 12:51:45,000 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: test.local
+Queued events for site test.local
+[DEBUG] 2017-04-18 12:55:45,320 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: optiopay.local
+Queued events for site optiopay.local
+[DEBUG] 2017-04-18 12:55:45,355 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: test.local
+Queued events for site test.local
+[DEBUG] 2017-04-18 12:59:45,694 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: optiopay.local
+Queued events for site optiopay.local
+[DEBUG] 2017-04-18 12:59:45,719 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: test.local
+Queued events for site test.local
+[DEBUG] 2017-04-18 13:03:46,757 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: optiopay.local
+Queued events for site optiopay.local
+[DEBUG] 2017-04-18 13:03:46,831 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: test.local
+Queued events for site test.local
+[DEBUG] 2017-04-18 13:34:48,974 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: optiopay.local
+Queued events for site optiopay.local
+[DEBUG] 2017-04-18 13:34:49,046 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: test.local
+Queued events for site test.local
+[DEBUG] 2017-04-18 13:38:49,414 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: optiopay.local
+Queued events for site optiopay.local
+[DEBUG] 2017-04-18 13:38:49,473 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: test.local
+Queued events for site test.local
+[DEBUG] 2017-04-18 13:42:49,788 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: optiopay.local
+Queued events for site optiopay.local
+[DEBUG] 2017-04-18 13:42:49,845 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: test.local
+Queued events for site test.local
+[DEBUG] 2017-04-18 13:46:50,210 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: optiopay.local
+Queued events for site optiopay.local
+[DEBUG] 2017-04-18 13:46:50,251 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: test.local
+Queued events for site test.local
+[DEBUG] 2017-04-18 13:50:50,592 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: optiopay.local
+Queued events for site optiopay.local
+[DEBUG] 2017-04-18 13:50:50,636 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: test.local
+Queued events for site test.local
+[DEBUG] 2017-04-18 13:54:50,945 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: optiopay.local
+Queued events for site optiopay.local
+[DEBUG] 2017-04-18 13:54:50,971 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: test.local
+Queued events for site test.local
+[DEBUG] 2017-04-18 13:58:51,280 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: optiopay.local
+Queued events for site optiopay.local
+[DEBUG] 2017-04-18 13:58:51,303 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: test.local
+Queued events for site test.local
+[DEBUG] 2017-04-18 14:02:51,640 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: optiopay.local
+Queued events for site optiopay.local
+[DEBUG] 2017-04-18 14:02:51,716 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: test.local
+Queued events for site test.local
+[DEBUG] 2017-04-18 14:06:52,038 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: optiopay.local
+Queued events for site optiopay.local
+[DEBUG] 2017-04-18 14:06:52,093 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: test.local
+Queued events for site test.local
+[DEBUG] 2017-04-18 14:10:52,444 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: optiopay.local
+Queued events for site optiopay.local
+[DEBUG] 2017-04-18 14:10:52,473 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: test.local
+Queued events for site test.local
+[DEBUG] 2017-04-18 14:14:52,784 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: optiopay.local
+Queued events for site optiopay.local
+[DEBUG] 2017-04-18 14:14:52,810 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: test.local
+Queued events for site test.local
+[DEBUG] 2017-04-18 14:18:53,124 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: optiopay.local
+Queued events for site optiopay.local
+[DEBUG] 2017-04-18 14:18:53,149 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: test.local
+Queued events for site test.local
+[DEBUG] 2017-04-18 14:22:53,483 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: optiopay.local
+Queued events for site optiopay.local
+[DEBUG] 2017-04-18 14:22:53,511 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: test.local
+Queued events for site test.local
+[DEBUG] 2017-04-18 14:26:53,844 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: optiopay.local
+Queued events for site optiopay.local
+[DEBUG] 2017-04-18 14:26:53,880 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: test.local
+Queued events for site test.local
+[DEBUG] 2017-04-18 14:30:54,196 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: optiopay.local
+Queued events for site optiopay.local
+[DEBUG] 2017-04-18 14:30:54,259 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: test.local
+Queued events for site test.local
+[DEBUG] 2017-04-18 14:34:54,595 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: optiopay.local
+Queued events for site optiopay.local
+[DEBUG] 2017-04-18 14:34:54,622 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: test.local
+Queued events for site test.local
+[DEBUG] 2017-04-18 14:38:54,962 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: optiopay.local
+Queued events for site optiopay.local
+[DEBUG] 2017-04-18 14:38:54,989 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: test.local
+Queued events for site test.local
+[DEBUG] 2017-04-18 14:42:55,346 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: optiopay.local
+Queued events for site optiopay.local
+[DEBUG] 2017-04-18 14:42:55,369 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: test.local
+Queued events for site test.local
+[DEBUG] 2017-04-18 14:46:55,708 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: optiopay.local
+Queued events for site optiopay.local
+[DEBUG] 2017-04-18 14:46:55,733 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: test.local
+Queued events for site test.local
+[DEBUG] 2017-04-18 14:50:56,075 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: optiopay.local
+Queued events for site optiopay.local
+[DEBUG] 2017-04-18 14:50:56,105 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: test.local
+Queued events for site test.local
+[DEBUG] 2017-04-18 14:54:56,440 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: optiopay.local
+Queued events for site optiopay.local
+[DEBUG] 2017-04-18 14:54:56,468 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: test.local
+Queued events for site test.local
+[DEBUG] 2017-04-18 14:58:56,802 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: optiopay.local
+Queued events for site optiopay.local
+[DEBUG] 2017-04-18 14:58:56,825 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: test.local
+Queued events for site test.local
+[DEBUG] 2017-04-18 15:02:57,162 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: optiopay.local
+Queued events for site optiopay.local
+[DEBUG] 2017-04-18 15:02:57,213 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: test.local
+Queued events for site test.local
+[DEBUG] 2017-04-18 15:06:57,540 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: optiopay.local
+Queued events for site optiopay.local
+[DEBUG] 2017-04-18 15:06:57,567 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: test.local
+Queued events for site test.local
+[DEBUG] 2017-04-18 15:10:57,899 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: optiopay.local
+Queued events for site optiopay.local
+[DEBUG] 2017-04-18 15:10:57,928 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: test.local
+Queued events for site test.local
+[DEBUG] 2017-04-18 15:14:58,256 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: optiopay.local
+Queued events for site optiopay.local
+[DEBUG] 2017-04-18 15:14:58,283 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: test.local
+Queued events for site test.local
+[DEBUG] 2017-04-18 15:18:58,621 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: optiopay.local
+Queued events for site optiopay.local
+[DEBUG] 2017-04-18 15:18:58,640 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: test.local
+Queued events for site test.local
+[DEBUG] 2017-04-18 15:22:58,984 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: optiopay.local
+Queued events for site optiopay.local
+[DEBUG] 2017-04-18 15:22:59,019 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: test.local
+Queued events for site test.local
+[DEBUG] 2017-04-18 15:26:59,340 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: optiopay.local
+Queued events for site optiopay.local
+[DEBUG] 2017-04-18 15:26:59,367 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: test.local
+Queued events for site test.local
+[DEBUG] 2017-04-18 15:30:59,704 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: optiopay.local
+Queued events for site optiopay.local
+[DEBUG] 2017-04-18 15:30:59,732 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: test.local
+Queued events for site test.local
+[DEBUG] 2017-04-18 15:35:00,060 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: optiopay.local
+Queued events for site optiopay.local
+[DEBUG] 2017-04-18 15:35:00,104 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: test.local
+Queued events for site test.local
+[DEBUG] 2017-04-18 15:39:00,412 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: optiopay.local
+Queued events for site optiopay.local
+[DEBUG] 2017-04-18 15:39:00,448 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: test.local
+Queued events for site test.local
+[ERROR] 2017-04-18 15:42:13,060 | /home/robert/frappe-bench/apps/frappe/frappe/app.py:
+Site: optiopay.local
+Form Dict: {
+ "action": "Save", 
+ "cmd": "frappe.desk.form.save.savedocs", 
+ "doc": "{\"image_view\":0,\"allow_import\":1,\"creation\":\"2017-04-16 15:58:39.310253\",\"track_changes\":1,\"track_seen\":0,\"sort_order\":\"DESC\",\"owner\":\"Administrator\",\"editable_grid\":1,\"in_create\":0,\"read_only\":0,\"document_type\":\"\",\"hide_heading\":0,\"modified_by\":\"Administrator\",\"allow_rename\":1,\"custom\":0,\"max_attachments\":0,\"docstatus\":0,\"sort_field\":\"modified\",\"allow_copy\":0,\"engine\":\"InnoDB\",\"allow_guest_to_view\":0,\"istable\":0,\"has_web_view\":0,\"show_name_in_global_search\":0,\"beta\":0,\"read_only_onload\":0,\"module\":\"Items\",\"doctype\":\"DocType\",\"autoname\":\"field:voucher_name\",\"issingle\":0,\"name\":\"Voucher\",\"idx\":0,\"hide_toolbar\":0,\"modified\":\"2017-04-17 16:26:19.926420\",\"is_submittable\":0,\"name_case\":\"\",\"fields\":[{\"collapsible\":0,\"no_copy\":0,\"creation\":\"2017-04-16 15:58:39.310253\",\"doctype\":\"DocField\",\"owner\":\"Administrator\",\"in_list_view\":0,\"reqd\":1,\"ignore_xss_filter\":0,\"in_global_search\":0,\"read_only\":0,\"print_hide\":0,\"modified_by\":\"Administrator\",\"ignore_user_permissions\":0,\"length\":0,\"label\":\"Voucher Name\",\"print_hide_if_no_value\":0,\"set_only_once\":0,\"docstatus\":0,\"hidden\":0,\"in_filter\":0,\"permlevel\":0,\"columns\":0,\"bold\":0,\"parent\":\"Voucher\",\"search_index\":0,\"allow_on_submit\":0,\"precision\":\"\",\"remember_last_selected_value\":0,\"unique\":0,\"name\":\"72bb44a7f1\",\"idx\":1,\"in_standard_filter\":0,\"modified\":\"2017-04-17 16:26:19.926420\",\"parenttype\":\"DocType\",\"fieldname\":\"voucher_name\",\"fieldtype\":\"Data\",\"report_hide\":0,\"parentfield\":\"fields\"},{\"collapsible\":0,\"no_copy\":0,\"creation\":\"2017-04-16 15:58:39.310253\",\"doctype\":\"DocField\",\"owner\":\"Administrator\",\"in_list_view\":0,\"reqd\":1,\"ignore_xss_filter\":0,\"in_global_search\":0,\"read_only\":0,\"print_hide\":0,\"modified_by\":\"Administrator\",\"ignore_user_permissions\":0,\"length\":0,\"label\":\"Campaign\",\"print_hide_if_no_value\":0,\"set_only_once\":0,\"docstatus\":0,\"hidden\":0,\"in_filter\":0,\"permlevel\":0,\"columns\":0,\"bold\":0,\"parent\":\"Voucher\",\"search_index\":0,\"allow_on_submit\":0,\"precision\":\"\",\"remember_last_selected_value\":0,\"unique\":0,\"name\":\"890f880453\",\"idx\":2,\"in_standard_filter\":1,\"modified\":\"2017-04-17 16:26:19.926420\",\"parenttype\":\"DocType\",\"fieldname\":\"campaign\",\"fieldtype\":\"Link\",\"options\":\"Campaign\",\"report_hide\":0,\"parentfield\":\"fields\"},{\"docstatus\":0,\"doctype\":\"DocField\",\"name\":\"New DocField 1\",\"__islocal\":1,\"__unsaved\":1,\"owner\":\"Administrator\",\"fieldtype\":\"Read Only\",\"precision\":\"\",\"permlevel\":0,\"parent\":\"Voucher\",\"parentfield\":\"fields\",\"parenttype\":\"DocType\",\"idx\":3,\"__unedited\":false,\"label\":\"Advertiser\",\"options\":\"campaign.partner_name\"},{\"collapsible\":0,\"no_copy\":0,\"creation\":\"2017-04-16 15:58:39.310253\",\"doctype\":\"DocField\",\"owner\":\"Administrator\",\"in_list_view\":1,\"reqd\":0,\"ignore_xss_filter\":0,\"in_global_search\":0,\"read_only\":0,\"print_hide\":0,\"modified_by\":\"Administrator\",\"ignore_user_permissions\":0,\"length\":0,\"label\":\"Purchase Price\",\"print_hide_if_no_value\":0,\"set_only_once\":0,\"docstatus\":0,\"hidden\":0,\"in_filter\":0,\"permlevel\":0,\"columns\":0,\"bold\":0,\"parent\":\"Voucher\",\"search_index\":0,\"allow_on_submit\":0,\"precision\":\"7\",\"remember_last_selected_value\":0,\"unique\":0,\"name\":\"fbf0c0cd42\",\"idx\":4,\"default\":\"0\",\"in_standard_filter\":0,\"modified\":\"2017-04-17 16:26:19.926420\",\"parenttype\":\"DocType\",\"fieldname\":\"purchase_price\",\"fieldtype\":\"Currency\",\"report_hide\":0,\"parentfield\":\"fields\"},{\"collapsible\":0,\"no_copy\":0,\"creation\":\"2017-04-16 15:58:39.310253\",\"doctype\":\"DocField\",\"owner\":\"Administrator\",\"in_list_view\":1,\"reqd\":0,\"ignore_xss_filter\":0,\"in_global_search\":0,\"read_only\":0,\"print_hide\":0,\"modified_by\":\"Administrator\",\"ignore_user_permissions\":0,\"length\":0,\"label\":\"Nominal Value\",\"print_hide_if_no_value\":0,\"set_only_once\":0,\"docstatus\":0,\"hidden\":0,\"in_filter\":0,\"permlevel\":0,\"columns\":0,\"bold\":0,\"parent\":\"Voucher\",\"search_index\":0,\"allow_on_submit\":0,\"precision\":\"7\",\"remember_last_selected_value\":0,\"unique\":0,\"name\":\"536c0b966a\",\"idx\":5,\"in_standard_filter\":0,\"modified\":\"2017-04-17 16:26:19.926420\",\"parenttype\":\"DocType\",\"fieldname\":\"nominal_value\",\"fieldtype\":\"Currency\",\"report_hide\":0,\"parentfield\":\"fields\"},{\"collapsible\":0,\"no_copy\":0,\"creation\":\"2017-04-16 15:58:39.310253\",\"doctype\":\"DocField\",\"owner\":\"Administrator\",\"in_list_view\":1,\"reqd\":0,\"ignore_xss_filter\":0,\"in_global_search\":0,\"read_only\":0,\"print_hide\":0,\"modified_by\":\"Administrator\",\"ignore_user_permissions\":0,\"length\":0,\"label\":\"Exchange Value\",\"print_hide_if_no_value\":0,\"set_only_once\":0,\"docstatus\":0,\"hidden\":0,\"in_filter\":0,\"permlevel\":0,\"columns\":0,\"bold\":0,\"parent\":\"Voucher\",\"search_index\":0,\"allow_on_submit\":0,\"precision\":\"7\",\"remember_last_selected_value\":0,\"unique\":0,\"name\":\"8b1b2bf491\",\"idx\":6,\"in_standard_filter\":0,\"modified\":\"2017-04-17 16:26:19.926420\",\"parenttype\":\"DocType\",\"fieldname\":\"exchange_value\",\"fieldtype\":\"Currency\",\"report_hide\":0,\"parentfield\":\"fields\"},{\"collapsible\":0,\"no_copy\":0,\"creation\":\"2017-04-16 15:58:39.310253\",\"doctype\":\"DocField\",\"owner\":\"Administrator\",\"in_list_view\":0,\"reqd\":0,\"ignore_xss_filter\":0,\"in_global_search\":0,\"read_only\":0,\"print_hide\":0,\"modified_by\":\"Administrator\",\"ignore_user_permissions\":0,\"length\":0,\"label\":\"Commission Fee\",\"print_hide_if_no_value\":0,\"set_only_once\":0,\"docstatus\":0,\"hidden\":0,\"in_filter\":0,\"permlevel\":0,\"columns\":0,\"bold\":0,\"parent\":\"Voucher\",\"search_index\":0,\"allow_on_submit\":0,\"precision\":\"7\",\"remember_last_selected_value\":0,\"unique\":0,\"name\":\"124c9299a9\",\"idx\":7,\"in_standard_filter\":0,\"modified\":\"2017-04-17 16:26:19.926420\",\"parenttype\":\"DocType\",\"fieldname\":\"commission_fee\",\"fieldtype\":\"Currency\",\"report_hide\":0,\"parentfield\":\"fields\"},{\"collapsible\":0,\"no_copy\":0,\"creation\":\"2017-04-16 15:58:39.310253\",\"doctype\":\"DocField\",\"owner\":\"Administrator\",\"in_list_view\":0,\"reqd\":0,\"ignore_xss_filter\":0,\"in_global_search\":0,\"read_only\":0,\"print_hide\":0,\"modified_by\":\"Administrator\",\"ignore_user_permissions\":0,\"length\":0,\"label\":\"Service Fee\",\"print_hide_if_no_value\":0,\"set_only_once\":0,\"docstatus\":0,\"hidden\":0,\"in_filter\":0,\"permlevel\":0,\"columns\":0,\"bold\":0,\"parent\":\"Voucher\",\"search_index\":0,\"allow_on_submit\":0,\"precision\":\"7\",\"remember_last_selected_value\":0,\"unique\":0,\"name\":\"629716c79a\",\"idx\":8,\"in_standard_filter\":0,\"modified\":\"2017-04-17 16:26:19.926420\",\"parenttype\":\"DocType\",\"fieldname\":\"service_fee\",\"fieldtype\":\"Currency\",\"report_hide\":0,\"parentfield\":\"fields\"}],\"permissions\":[{\"creation\":\"2017-04-16 15:58:39.310253\",\"share\":1,\"doctype\":\"DocPerm\",\"owner\":\"Administrator\",\"export\":1,\"cancel\":0,\"set_user_permissions\":0,\"modified_by\":\"Administrator\",\"create\":1,\"submit\":0,\"write\":1,\"role\":\"System Manager\",\"print\":1,\"docstatus\":0,\"permlevel\":0,\"parent\":\"Voucher\",\"read\":1,\"import\":0,\"report\":1,\"apply_user_permissions\":0,\"name\":\"8855f37043\",\"idx\":1,\"amend\":0,\"modified\":\"2017-04-17 16:26:19.926420\",\"email\":1,\"parenttype\":\"DocType\",\"parentfield\":\"permissions\",\"if_owner\":0,\"delete\":1},{\"creation\":\"2017-04-16 15:58:39.310253\",\"share\":1,\"doctype\":\"DocPerm\",\"owner\":\"Administrator\",\"export\":1,\"cancel\":0,\"set_user_permissions\":0,\"modified_by\":\"Administrator\",\"create\":1,\"submit\":0,\"write\":1,\"role\":\"Finance Manager\",\"print\":1,\"docstatus\":0,\"permlevel\":0,\"parent\":\"Voucher\",\"read\":1,\"import\":0,\"report\":1,\"apply_user_permissions\":0,\"name\":\"53efee3ff2\",\"idx\":2,\"amend\":0,\"modified\":\"2017-04-17 16:26:19.926420\",\"email\":1,\"parenttype\":\"DocType\",\"parentfield\":\"permissions\",\"if_owner\":0,\"delete\":1},{\"creation\":\"2017-04-16 15:58:39.310253\",\"share\":1,\"doctype\":\"DocPerm\",\"owner\":\"Administrator\",\"export\":1,\"cancel\":0,\"set_user_permissions\":0,\"modified_by\":\"Administrator\",\"create\":1,\"submit\":0,\"write\":1,\"role\":\"Administrator\",\"print\":1,\"docstatus\":0,\"permlevel\":0,\"parent\":\"Voucher\",\"read\":1,\"import\":0,\"report\":1,\"apply_user_permissions\":0,\"name\":\"7353c3620b\",\"idx\":3,\"amend\":0,\"modified\":\"2017-04-17 16:26:19.926420\",\"email\":1,\"parenttype\":\"DocType\",\"parentfield\":\"permissions\",\"if_owner\":0,\"delete\":1}],\"quick_entry\":1,\"__last_sync_on\":\"2017-04-18T13:41:17.465Z\",\"__unsaved\":1,\"server_code_compiled\":null}"
+}
+Request Error
+Traceback (most recent call last):
+  File "/home/robert/frappe-bench/apps/frappe/frappe/app.py", line 56, in application
+    response = frappe.handler.handle()
+  File "/home/robert/frappe-bench/apps/frappe/frappe/handler.py", line 19, in handle
+    execute_cmd(cmd)
+  File "/home/robert/frappe-bench/apps/frappe/frappe/handler.py", line 42, in execute_cmd
+    ret = frappe.call(method, **frappe.form_dict)
+  File "/home/robert/frappe-bench/apps/frappe/frappe/__init__.py", line 907, in call
+    return fn(*args, **newargs)
+  File "/home/robert/frappe-bench/apps/frappe/frappe/desk/form/save.py", line 22, in savedocs
+    doc.save()
+  File "/home/robert/frappe-bench/apps/frappe/frappe/model/document.py", line 231, in save
+    return self._save(*args, **kwargs)
+  File "/home/robert/frappe-bench/apps/frappe/frappe/model/document.py", line 281, in _save
+    self.run_post_save_methods()
+  File "/home/robert/frappe-bench/apps/frappe/frappe/model/document.py", line 790, in run_post_save_methods
+    self.run_method("on_update")
+  File "/home/robert/frappe-bench/apps/frappe/frappe/model/document.py", line 667, in run_method
+    out = Document.hook(fn)(self, *args, **kwargs)
+  File "/home/robert/frappe-bench/apps/frappe/frappe/model/document.py", line 892, in composer
+    return composed(self, method, *args, **kwargs)
+  File "/home/robert/frappe-bench/apps/frappe/frappe/model/document.py", line 875, in runner
+    add_to_return_value(self, fn(self, *args, **kwargs))
+  File "/home/robert/frappe-bench/apps/frappe/frappe/model/document.py", line 661, in <lambda>
+    fn = lambda self, *args, **kwargs: getattr(self, method)(*args, **kwargs)
+  File "/home/robert/frappe-bench/apps/frappe/frappe/core/doctype/doctype/doctype.py", line 196, in on_update
+    self.update_fields_to_fetch()
+  File "/home/robert/frappe-bench/apps/frappe/frappe/core/doctype/doctype/doctype.py", line 119, in update_fields_to_fetch
+    frappe.db.sql(query)
+  File "/home/robert/frappe-bench/apps/frappe/frappe/database.py", line 149, in sql
+    self._cursor.execute(query)
+  File "/home/robert/frappe-bench/env/local/lib/python2.7/site-packages/MySQLdb/cursors.py", line 205, in execute
+    self.errorhandler(self, exc, value)
+  File "/home/robert/frappe-bench/env/local/lib/python2.7/site-packages/MySQLdb/connections.py", line 36, in defaulterrorhandler
+    raise errorclass, errorvalue
+OperationalError: (1054, "Unknown column 'source.partner_name' in 'field list'")
+[ERROR] 2017-04-18 15:42:13,221 | /home/robert/frappe-bench/apps/frappe/frappe/utils/error.py:
+Could not take error snapshot: 'connection'
+Traceback (most recent call last):
+  File "/home/robert/frappe-bench/apps/frappe/frappe/utils/error.py", line 36, in make_error_snapshot
+    snapshot = get_snapshot(exception)
+  File "/home/robert/frappe-bench/apps/frappe/frappe/utils/error.py", line 81, in get_snapshot
+    call = inspect.formatargvalues(args, varargs, varkw, locals, formatvalue=lambda value: '={}'.format(pydoc.text.repr(value)))
+  File "/usr/lib/python2.7/inspect.py", line 888, in formatargvalues
+    specs.append(strseq(args[i], convert, join))
+  File "/usr/lib/python2.7/inspect.py", line 843, in strseq
+    return convert(object)
+  File "/usr/lib/python2.7/inspect.py", line 885, in convert
+    return formatarg(name) + formatvalue(locals[name])
+KeyError: 'connection'
+[DEBUG] 2017-04-18 15:43:00,801 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: optiopay.local
+Queued events for site optiopay.local
+[DEBUG] 2017-04-18 15:43:00,834 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: test.local
+Queued events for site test.local
+[DEBUG] 2017-04-18 15:47:01,096 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: optiopay.local
+Queued events for site optiopay.local
+[DEBUG] 2017-04-18 15:47:01,136 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: test.local
+Queued events for site test.local
+[DEBUG] 2017-04-18 15:51:01,488 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: optiopay.local
+Queued events for site optiopay.local
+[DEBUG] 2017-04-18 15:51:01,529 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: test.local
+Queued events for site test.local
+[DEBUG] 2017-04-18 15:55:01,920 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: optiopay.local
+Queued events for site optiopay.local
+[DEBUG] 2017-04-18 15:55:01,938 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: test.local
+Queued events for site test.local
+[DEBUG] 2017-04-18 15:59:02,254 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: optiopay.local
+Queued events for site optiopay.local
+[DEBUG] 2017-04-18 15:59:02,275 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: test.local
+Queued events for site test.local
+[DEBUG] 2017-04-18 16:03:02,604 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: optiopay.local
+Queued events for site optiopay.local
+[DEBUG] 2017-04-18 16:03:02,660 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: test.local
+Queued events for site test.local
+[DEBUG] 2017-04-18 16:07:02,982 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: optiopay.local
+Queued events for site optiopay.local
+[DEBUG] 2017-04-18 16:07:03,020 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: test.local
+Queued events for site test.local
+[DEBUG] 2017-04-18 16:11:03,345 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: optiopay.local
+Queued events for site optiopay.local
+[DEBUG] 2017-04-18 16:11:03,376 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: test.local
+Queued events for site test.local
+[DEBUG] 2017-04-18 16:15:03,853 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: optiopay.local
+Queued events for site optiopay.local
+[DEBUG] 2017-04-18 16:15:03,990 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: test.local
+Queued events for site test.local
+[DEBUG] 2017-04-18 16:19:04,422 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: optiopay.local
+Queued events for site optiopay.local
+[DEBUG] 2017-04-18 16:19:04,469 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: test.local
+Queued events for site test.local
+[DEBUG] 2017-04-18 16:23:04,838 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: optiopay.local
+Queued events for site optiopay.local
+[DEBUG] 2017-04-18 16:23:04,899 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: test.local
+Queued events for site test.local
+[DEBUG] 2017-04-18 16:27:05,247 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: optiopay.local
+Queued events for site optiopay.local
+[DEBUG] 2017-04-18 16:27:05,284 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: test.local
+Queued events for site test.local
+[DEBUG] 2017-04-18 16:31:05,600 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: optiopay.local
+Queued events for site optiopay.local
+[DEBUG] 2017-04-18 16:31:05,647 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: test.local
+Queued events for site test.local
+[DEBUG] 2017-04-18 16:35:05,966 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: optiopay.local
+Queued events for site optiopay.local
+[DEBUG] 2017-04-18 16:35:06,020 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: test.local
+Queued events for site test.local
+[DEBUG] 2017-04-18 16:39:06,331 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: optiopay.local
+Queued events for site optiopay.local
+[DEBUG] 2017-04-18 16:39:06,388 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: test.local
+Queued events for site test.local
+[DEBUG] 2017-04-18 16:43:06,681 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: optiopay.local
+Queued events for site optiopay.local
+[DEBUG] 2017-04-18 16:43:06,716 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: test.local
+Queued events for site test.local
+[DEBUG] 2017-04-18 16:47:07,027 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: optiopay.local
+Queued events for site optiopay.local
+[DEBUG] 2017-04-18 16:47:07,057 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: test.local
+Queued events for site test.local
+[DEBUG] 2017-04-18 16:51:07,404 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: optiopay.local
+Queued events for site optiopay.local
+[DEBUG] 2017-04-18 16:51:07,440 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: test.local
+Queued events for site test.local
+[DEBUG] 2017-04-18 16:55:07,784 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: optiopay.local
+Queued events for site optiopay.local
+[DEBUG] 2017-04-18 16:55:07,825 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: test.local
+Queued events for site test.local
+[DEBUG] 2017-04-18 16:59:08,168 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: optiopay.local
+Queued events for site optiopay.local
+[DEBUG] 2017-04-18 16:59:08,205 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: test.local
+Queued events for site test.local
+[DEBUG] 2017-04-18 17:03:08,519 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: optiopay.local
+Queued events for site optiopay.local
+[DEBUG] 2017-04-18 17:03:08,672 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: test.local
+Queued events for site test.local
+[DEBUG] 2017-04-18 17:07:09,024 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: optiopay.local
+Queued events for site optiopay.local
+[DEBUG] 2017-04-18 17:07:09,074 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: test.local
+Queued events for site test.local
+[DEBUG] 2017-04-18 17:11:09,442 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: optiopay.local
+Queued events for site optiopay.local
+[DEBUG] 2017-04-18 17:11:09,488 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: test.local
+Queued events for site test.local
+[DEBUG] 2017-04-18 17:15:09,818 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: optiopay.local
+Queued events for site optiopay.local
+[DEBUG] 2017-04-18 17:15:09,868 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: test.local
+Queued events for site test.local
+[DEBUG] 2017-04-18 17:19:10,165 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: optiopay.local
+Queued events for site optiopay.local
+[DEBUG] 2017-04-18 17:19:10,199 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: test.local
+Queued events for site test.local
+[DEBUG] 2017-04-18 17:23:10,538 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: optiopay.local
+Queued events for site optiopay.local
+[DEBUG] 2017-04-18 17:23:10,559 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: test.local
+Queued events for site test.local
+[DEBUG] 2017-04-18 17:27:10,881 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: optiopay.local
+Queued events for site optiopay.local
+[DEBUG] 2017-04-18 17:27:10,918 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: test.local
+Queued events for site test.local
+[DEBUG] 2017-04-18 17:31:11,236 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: optiopay.local
+Queued events for site optiopay.local
+[DEBUG] 2017-04-18 17:31:11,276 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: test.local
+Queued events for site test.local
+[DEBUG] 2017-04-18 17:35:11,575 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: optiopay.local
+Queued events for site optiopay.local
+[DEBUG] 2017-04-18 17:35:11,616 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: test.local
+Queued events for site test.local
+[DEBUG] 2017-04-18 17:39:11,953 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: optiopay.local
+Queued events for site optiopay.local
+[DEBUG] 2017-04-18 17:39:11,988 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: test.local
+Queued events for site test.local
+[DEBUG] 2017-04-18 17:43:12,327 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: optiopay.local
+Queued events for site optiopay.local
+[DEBUG] 2017-04-18 17:43:12,352 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: test.local
+Queued events for site test.local
+[DEBUG] 2017-04-18 17:47:12,652 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: optiopay.local
+Queued events for site optiopay.local
+[DEBUG] 2017-04-18 17:47:12,695 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: test.local
+Queued events for site test.local
+[DEBUG] 2017-04-18 17:51:13,024 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: optiopay.local
+Queued events for site optiopay.local
+[DEBUG] 2017-04-18 17:51:13,072 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: test.local
+Queued events for site test.local
+[DEBUG] 2017-04-18 17:55:13,396 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: optiopay.local
+Queued events for site optiopay.local
+[DEBUG] 2017-04-18 17:55:13,427 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: test.local
+Queued events for site test.local
+[DEBUG] 2017-04-18 17:59:13,777 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: optiopay.local
+Queued events for site optiopay.local
+[DEBUG] 2017-04-18 17:59:13,806 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: test.local
+Queued events for site test.local
+[DEBUG] 2017-04-18 18:03:14,127 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: optiopay.local
+Queued events for site optiopay.local
+[DEBUG] 2017-04-18 18:03:14,196 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: test.local
+Queued events for site test.local
+[DEBUG] 2017-04-18 18:07:14,519 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: optiopay.local
+Queued events for site optiopay.local
+[DEBUG] 2017-04-18 18:07:14,551 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: test.local
+Queued events for site test.local
+[DEBUG] 2017-04-18 18:11:14,848 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: optiopay.local
+Queued events for site optiopay.local
+[DEBUG] 2017-04-18 18:11:14,887 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: test.local
+Queued events for site test.local
+[DEBUG] 2017-04-18 18:15:15,220 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: optiopay.local
+Queued events for site optiopay.local
+[DEBUG] 2017-04-18 18:15:15,259 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: test.local
+Queued events for site test.local
+[DEBUG] 2017-04-18 18:19:15,585 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: optiopay.local
+Queued events for site optiopay.local
+[DEBUG] 2017-04-18 18:19:15,616 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: test.local
+Queued events for site test.local
+[DEBUG] 2017-04-18 18:23:15,931 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: optiopay.local
+Queued events for site optiopay.local
+[DEBUG] 2017-04-18 18:23:15,958 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: test.local
+Queued events for site test.local
+[DEBUG] 2017-04-18 18:27:16,273 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: optiopay.local
+Queued events for site optiopay.local
+[DEBUG] 2017-04-18 18:27:16,299 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: test.local
+Queued events for site test.local
+[DEBUG] 2017-04-18 18:31:16,641 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: optiopay.local
+Queued events for site optiopay.local
+[DEBUG] 2017-04-18 18:31:16,667 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: test.local
+Queued events for site test.local
+[DEBUG] 2017-04-18 18:35:16,993 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: optiopay.local
+Queued events for site optiopay.local
+[DEBUG] 2017-04-18 18:35:17,025 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: test.local
+Queued events for site test.local
+[DEBUG] 2017-04-18 18:39:17,333 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: optiopay.local
+Queued events for site optiopay.local
+[DEBUG] 2017-04-18 18:39:17,360 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: test.local
+Queued events for site test.local
+[DEBUG] 2017-04-18 18:43:17,700 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: optiopay.local
+Queued events for site optiopay.local
+[DEBUG] 2017-04-18 18:43:17,731 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: test.local
+Queued events for site test.local
+[DEBUG] 2017-04-18 18:47:18,065 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: optiopay.local
+Queued events for site optiopay.local
+[DEBUG] 2017-04-18 18:47:18,099 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: test.local
+Queued events for site test.local
+[DEBUG] 2017-04-18 18:51:18,440 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: optiopay.local
+Queued events for site optiopay.local
+[DEBUG] 2017-04-18 18:51:18,456 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: test.local
+Queued events for site test.local
+[DEBUG] 2017-04-18 20:21:41,620 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: optiopay.local
+Queued events for site optiopay.local
+[DEBUG] 2017-04-18 20:21:42,011 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: test.local
+Queued events for site test.local
+[DEBUG] 2017-04-18 20:25:42,418 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: optiopay.local
+Queued events for site optiopay.local
+[DEBUG] 2017-04-18 20:25:42,462 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: test.local
+Queued events for site test.local
+[DEBUG] 2017-04-18 20:29:42,881 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: optiopay.local
+Queued events for site optiopay.local
+[DEBUG] 2017-04-18 20:29:42,917 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: test.local
+Queued events for site test.local
+[DEBUG] 2017-04-18 20:33:43,322 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: optiopay.local
+Queued events for site optiopay.local
+[DEBUG] 2017-04-18 20:33:43,399 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: test.local
+Queued events for site test.local
+[DEBUG] 2017-04-18 20:37:43,793 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: optiopay.local
+Queued events for site optiopay.local
+[DEBUG] 2017-04-18 20:37:43,881 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: test.local
+Queued events for site test.local
+[DEBUG] 2017-04-18 20:41:44,193 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: optiopay.local
+Queued events for site optiopay.local
+[DEBUG] 2017-04-18 20:41:44,231 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: test.local
+Queued events for site test.local
+[DEBUG] 2017-04-18 20:45:44,605 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: optiopay.local
+Queued events for site optiopay.local
+[DEBUG] 2017-04-18 20:45:44,657 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: test.local
+Queued events for site test.local
+[DEBUG] 2017-04-18 20:49:44,988 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: optiopay.local
+Queued events for site optiopay.local
+[DEBUG] 2017-04-18 20:49:45,034 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: test.local
+Queued events for site test.local
+[DEBUG] 2017-04-18 20:53:45,396 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: optiopay.local
+Queued events for site optiopay.local
+[DEBUG] 2017-04-18 20:53:45,455 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: test.local
+Queued events for site test.local
+[DEBUG] 2017-04-18 20:57:45,899 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: optiopay.local
+Queued events for site optiopay.local
+[DEBUG] 2017-04-18 20:57:46,005 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: test.local
+Queued events for site test.local
+[DEBUG] 2017-04-18 21:01:46,355 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: optiopay.local
+Queued events for site optiopay.local
+[DEBUG] 2017-04-18 21:01:46,487 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: test.local
+Queued events for site test.local
+[DEBUG] 2017-04-18 21:05:46,867 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: optiopay.local
+Queued events for site optiopay.local
+[DEBUG] 2017-04-18 21:05:46,919 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: test.local
+Queued events for site test.local
+[DEBUG] 2017-04-18 21:09:47,281 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: optiopay.local
+Queued events for site optiopay.local
+[DEBUG] 2017-04-18 21:09:47,341 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: test.local
+Queued events for site test.local
+[DEBUG] 2017-04-18 21:13:47,736 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: optiopay.local
+Queued events for site optiopay.local
+[DEBUG] 2017-04-18 21:13:47,809 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: test.local
+Queued events for site test.local
+[DEBUG] 2017-04-18 21:17:48,116 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: optiopay.local
+Queued events for site optiopay.local
+[DEBUG] 2017-04-18 21:17:48,174 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: test.local
+Queued events for site test.local
+[DEBUG] 2017-04-18 21:21:48,597 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: optiopay.local
+Queued events for site optiopay.local
+[DEBUG] 2017-04-18 21:21:48,714 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: test.local
+Queued events for site test.local
+[DEBUG] 2017-04-18 21:25:49,054 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: optiopay.local
+Queued events for site optiopay.local
+[DEBUG] 2017-04-18 21:25:49,135 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: test.local
+Queued events for site test.local
+[DEBUG] 2017-04-18 21:29:49,537 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: optiopay.local
+Queued events for site optiopay.local
+[DEBUG] 2017-04-18 21:29:49,636 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: test.local
+Queued events for site test.local
+[DEBUG] 2017-04-18 21:33:50,009 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: optiopay.local
+Queued events for site optiopay.local
+[DEBUG] 2017-04-18 21:33:50,037 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: test.local
+Queued events for site test.local
+[DEBUG] 2017-04-18 21:37:50,453 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: optiopay.local
+Queued events for site optiopay.local
+[DEBUG] 2017-04-18 21:37:50,501 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: test.local
+Queued events for site test.local
+[DEBUG] 2017-04-18 21:41:50,844 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: optiopay.local
+Queued events for site optiopay.local
+[DEBUG] 2017-04-18 21:41:50,884 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: test.local
+Queued events for site test.local
+[DEBUG] 2017-04-18 21:45:51,227 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: optiopay.local
+Queued events for site optiopay.local
+[DEBUG] 2017-04-18 21:45:51,280 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: test.local
+Queued events for site test.local
+[DEBUG] 2017-04-18 21:49:51,722 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: optiopay.local
+Queued events for site optiopay.local
+[DEBUG] 2017-04-18 21:49:51,808 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: test.local
+Queued events for site test.local
+[DEBUG] 2017-04-18 21:53:52,191 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: optiopay.local
+Queued events for site optiopay.local
+[DEBUG] 2017-04-18 21:53:52,251 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: test.local
+Queued events for site test.local
+[DEBUG] 2017-04-18 21:57:52,709 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: optiopay.local
+Queued events for site optiopay.local
+[DEBUG] 2017-04-18 21:57:52,870 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: test.local
+Queued events for site test.local
+[DEBUG] 2017-04-18 22:01:53,291 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: optiopay.local
+Queued events for site optiopay.local
+[DEBUG] 2017-04-18 22:01:53,405 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: test.local
+Queued events for site test.local
+[DEBUG] 2017-04-18 22:05:53,682 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: optiopay.local
+Queued events for site optiopay.local
+[DEBUG] 2017-04-18 22:05:53,757 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: test.local
+Queued events for site test.local
+[DEBUG] 2017-04-18 22:09:54,110 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: optiopay.local
+Queued events for site optiopay.local
+[DEBUG] 2017-04-18 22:09:54,158 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: test.local
+Queued events for site test.local
+[DEBUG] 2017-04-18 22:36:24,355 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: optiopay.local
+Queued events for site optiopay.local
+[DEBUG] 2017-04-18 22:36:25,054 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: test.local
+Queued events for site test.local
+[DEBUG] 2017-04-18 22:40:25,426 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: optiopay.local
+Queued events for site optiopay.local
+[DEBUG] 2017-04-18 22:40:25,458 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: test.local
+Queued events for site test.local
+[DEBUG] 2017-04-18 22:44:25,817 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: optiopay.local
+Queued events for site optiopay.local
+[DEBUG] 2017-04-18 22:44:25,849 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: test.local
+Queued events for site test.local
+[DEBUG] 2017-04-18 22:48:26,200 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: optiopay.local
+Queued events for site optiopay.local
+[DEBUG] 2017-04-18 22:48:26,251 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: test.local
+Queued events for site test.local
+[DEBUG] 2017-04-18 22:52:26,626 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: optiopay.local
+Queued events for site optiopay.local
+[DEBUG] 2017-04-18 22:52:26,701 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: test.local
+Queued events for site test.local
+[DEBUG] 2017-04-18 22:56:27,049 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: optiopay.local
+Queued events for site optiopay.local
+[DEBUG] 2017-04-18 22:56:27,077 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: test.local
+Queued events for site test.local
+[DEBUG] 2017-04-18 23:00:27,482 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: optiopay.local
+Queued events for site optiopay.local
+[DEBUG] 2017-04-18 23:00:27,555 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: test.local
+Queued events for site test.local
+[DEBUG] 2017-04-18 23:04:27,937 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: optiopay.local
+Queued events for site optiopay.local
+[DEBUG] 2017-04-18 23:04:27,978 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: test.local
+Queued events for site test.local
+[DEBUG] 2017-04-18 23:08:28,303 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: optiopay.local
+Queued events for site optiopay.local
+[DEBUG] 2017-04-18 23:08:28,338 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: test.local
+Queued events for site test.local
+[DEBUG] 2017-04-18 23:12:28,663 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: optiopay.local
+Queued events for site optiopay.local
+[DEBUG] 2017-04-18 23:12:28,681 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: test.local
+Queued events for site test.local
+[DEBUG] 2017-04-18 23:16:29,083 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: optiopay.local
+Queued events for site optiopay.local
+[DEBUG] 2017-04-18 23:16:29,162 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: test.local
+Queued events for site test.local
+[DEBUG] 2017-04-18 23:20:29,505 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: optiopay.local
+Queued events for site optiopay.local
+[DEBUG] 2017-04-18 23:20:29,646 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: test.local
+Queued events for site test.local
+[DEBUG] 2017-04-23 12:08:19,093 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: optiopay.local
+Queued events for site optiopay.local
+[DEBUG] 2017-04-23 12:08:23,779 | /home/robert/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: test.local
+Queued events for site test.local

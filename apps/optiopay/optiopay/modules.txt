@@ -1,0 +1,4 @@
+Parties
+Items
+Transactions
+Invoices
